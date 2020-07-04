@@ -1,8 +1,8 @@
 # Data Science Projects:
 
-This is a repository for a summary of most of my projects on Science, including Data cleaning, data analyzing and data visualization and machine learning.
+This is a repository for a summary of most of my projects on Data Science, including Data cleaning, data analyzing and data visualizing and machine learning.
 
-There are 11 projects in this repository, each project has its own repository, please click on each project link to see the code and analyzing result in Jupter notebook. 
+There are 11 projects in this repository, each project has its own repository, please click on each project link to see the code and analyzing result in Jupyter notebook. 
 
 # Project 1:  Artificial Financial Advisor on Peer-to-Peer lending
 
@@ -64,19 +64,19 @@ This project will compare Fuel Economy Data for 2008 and 2018, and analyze the c
 
 #### Link for code and analysis result: <a href="https://nbviewer.jupyter.org/github/lutang123/Exploring-Weather-Trends/blob/master/Exploring_Weather_Trends_%28GitHub%29.ipynb">Exploring Weather Trends</a> 
 
-# Data Science side projects on other various topics:
+## Data Science side projects on other various topics:
 
 This Repo includes 5 side projects done by myself, and it aims to present my data science learning journey.#### GitHub link:  <a href="https://github.com/lutang123/Data-Science-other-topics">GitHub Repo</a>
 
 #### Links for code and analysis result: 
 
-## Project 7: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Analyzing%20USA%20unemployment%20rate%20and%20plot%20line%20chart.ipynb">USA unemployment rate from 1948 to 2016</a> 
+#### Project 7: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Analyzing%20USA%20unemployment%20rate%20and%20plot%20line%20chart.ipynb">USA unemployment rate from 1948 to 2016</a> 
 
-## Project 8: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Analyzing%20chinook%20Database%20with%20SQL%20and%20pandas.ipynb">Analyzing Database with SQL and Connecting Database to Jupyter Notebook</a> 
+#### Project 8: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Analyzing%20chinook%20Database%20with%20SQL%20and%20pandas.ipynb">Analyzing Database with SQL and Connecting Database to Jupyter Notebook</a> 
 
-## Project 9: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Aquiring%20Data%20through%20API%20and%20Web%20scrapping.ipynb">Aquiring Data through API and Web scrapping</a> 
+#### Project 9: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Aquiring%20Data%20through%20API%20and%20Web%20scrapping.ipynb">Aquiring Data through API and Web scrapping</a> 
 
-## Project 10: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Using%20basemap%20to%20plot%20geo-map.ipynb">Use basemap to plot map on geo data</a> 
+#### Project 10: <a href="https://nbviewer.jupyter.org/github/lutang123/Data-Science-other-topics/blob/master/Using%20basemap%20to%20plot%20geo-map.ipynb">Use basemap to plot map on geo data</a> 
 
-## Project 11: <a href="https://nbviewer.jupyter.org/github/lutang123/AB-Test/blob/master/Analyzing%20AB%20test%20result%20to%20decide%20whether%20to%20launch%20new%20homepage%20design.ipynb">Statistical Analysis on A/B test result</a>
+#### Project 11: <a href="https://nbviewer.jupyter.org/github/lutang123/AB-Test/blob/master/Analyzing%20AB%20test%20result%20to%20decide%20whether%20to%20launch%20new%20homepage%20design.ipynb">Statistical Analysis on A/B test result</a>
 
