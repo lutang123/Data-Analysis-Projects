@@ -2,7 +2,7 @@
 
 This is a repository for a summary of most of my projects on Science, including Data cleaning, data analyzing and data visualization and machine learning.
 
-There are 4 projects in this repository, please click on each project link to see the code and analyzing result in Jupter notebook.
+There are 11 projects in this repository, each project has its own repository, please click on each project link to see the code and analyzing result in Jupter notebook. 
 
 # Project 1:  Artificial Financial Advisor on Peer-to-Peer lending
 
